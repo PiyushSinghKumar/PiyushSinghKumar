@@ -1,10 +1,8 @@
-## Hi there 👋
-
-# 👋 Hi, I'm Piyush Kumar Singh! 
+# 👋 Hi, I'm Piyush Kumar Singh!
 
 ### 🚀 About Me
 - 🌍 **Currently living in:** Neckarau Mannheim, Germany
-- 💼 **Working as:** Data Engineer in Heidelberg (Unlimited Contract)
+- 💼 **Working as:** Research and Development Engineer at RabbitAI, Heidelberg , Germany
 - 🧠 **Specializing in:** Data Engineering, Machine Learning, and Cloud Technologies
 - 🎯 **Focus Areas:** Scalable Data Pipelines, AWS, PySpark, and Machine Learning Pipelines
 - 🎓 **Skills:** Python, PySpark, AWS (S3, EC2, Lambda), Data Lakes, Event-Driven Architecture
@@ -19,24 +17,18 @@
   - Event-Driven Architecture and Data Quality Monitoring
 - **Machine Learning:**
   - Model Data Pipelines
-  - Advanced Concepts for Upskilling
-- **Cloud Computing:** 
+- **Cloud Computing:**
   - AWS Cloud Optimization and Automation
 
 ---
 
-### 📚 Current Learning Journey
-- 🌐 Gaining mastery in **PySpark** for Big Data Processing
-- 🧠 Exploring **Advanced Machine Learning Concepts**
-- 📂 Building a portfolio of **Data Engineering Projects**
+### 🛠️ Skills
+- **Programming Languages & Tools:** Python, SQL, PySpark, Pytorch, Kafka, Git, Bitbucket, Jira, Confluence
+- **Data Visualization:** Tableau, Power BI, Looker Studio, Plotly, Dash, Matplotlib
+- **Databases:** Teradata, PostgreSQL, BigQuery, MongoDB
+- **Cloud Platforms:** AWS, GCP
 
 ---
 
-### 🛠️ Tools & Technologies
-- **Languages:** Python, SQL
-- **Data Engineering:** PySpark, Apache Kafka, AWS (S3, EC2, Lambda)
-- **Visualization:** Tableau, Power BI
-- **Machine Learning Frameworks:** TensorFlow, scikit-learn
-- **DevOps:** Docker, CI/CD Pipelines
-
----
+### 💡 Projects
+[**Project : Real-Time Crypto Price Prediction**]
