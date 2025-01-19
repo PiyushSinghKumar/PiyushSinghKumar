@@ -31,4 +31,4 @@
 ---
 
 ### 💡 Projects
-[**Project : Real-Time Crypto Price Prediction**]
+[**Project : Real-Time Crypto Price Prediction**](https://github.com/PiyushSinghKumar/PiyushSinghKumar/tree/main/Real_time_crypto_prediction)
