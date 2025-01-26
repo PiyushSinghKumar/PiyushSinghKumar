@@ -32,6 +32,14 @@
 
 ### 💡 Projects
 
+[**IBiDAV (Intelligent Biomedical Data Analysis and Visualization)**](https://github.com/PiyushSinghKumar/PiyushSinghKumar/tree/main/Ibidav)
+Ibidav is a Streamlit-based application designed to process and analyze biomedical text data. It offers text preprocessing, word cloud generation, and topic modeling using Latent Dirichlet Allocation (LDA). The tool allows users to search and filter articles based on various metadata and keywords.
+- Text Preprocessing: Converts text to lowercase, tokenizes, removes non-alphabetic words, digits, stopwords, and lemmatizes the text.
+- Word Cloud Generation: Creates visual word clouds from processed biomedical text data.
+- LDA Topic Modeling: Extracts key topics from biomedical articles using LDA.
+- Search and Filtering: Search by PMID, PMCID, Title, or Abstract, and filter by category.
+- Dynamic Content Loading: Supports incremental loading for improved performance.
+
 [**Real-Time Crypto Price Prediction**](https://github.com/PiyushSinghKumar/PiyushSinghKumar/tree/main/Real_time_crypto_prediction)
 A real-time cryptocurrency price prediction system with data ingestion, feature processing, and model training.
 
