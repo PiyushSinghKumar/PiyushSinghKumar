@@ -31,4 +31,28 @@
 ---
 
 ### 💡 Projects
-[**Project : Real-Time Crypto Price Prediction**](https://github.com/PiyushSinghKumar/PiyushSinghKumar/tree/main/Real_time_crypto_prediction)
+
+[**Real-Time Crypto Price Prediction**](https://github.com/PiyushSinghKumar/PiyushSinghKumar/tree/main/Real_time_crypto_prediction)
+A real-time cryptocurrency price prediction system with data ingestion, feature processing, and model training.
+
+[**Exploratory Data Analysis (EDA)**](https://github.com/PiyushSinghKumar/PiyushSinghKumar/tree/main/EDA)
+Exploratory data analysis on various datasets to uncover insights and patterns.
+- CMSU EDA & T-Test
+- Customer Churn Analysis
+- Endomondo Fitness App Data
+- Uber Rides Data
+- Wholesale Customer Data
+
+[**Machine Learning**](https://github.com/PiyushSinghKumar/PiyushSinghKumar/tree/main/Machine_Learning)
+Building predictive models for real-world applications.
+- Election Prediction Model
+- Presidential Speech Sentiment Analysis
+- Time Series Forecasting
+
+[**Predictive Modeling**](https://github.com/PiyushSinghKumar/PiyushSinghKumar/tree/main/Predictive_Modelling)
+Implementation of predictive modeling techniques.
+- Linear Regression
+- Logistic Regression & LDA
+
+[**Statistical Analysis**](https://github.com/PiyushSinghKumar/PiyushSinghKumar/tree/main/Statistics)
+Statistical analysis and hypothesis testing using Python.
