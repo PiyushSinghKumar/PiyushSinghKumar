@@ -26,7 +26,7 @@
 
 ### 💡 Projects
 
-#### [IBiDAV - Intelligent Biomedical Data Analysis and Visualization](https://github.com/PiyushSinghKumar/PiyushSinghKumar/tree/main/Ibidav)
+#### [IBiDAV - Intelligent Biomedical Data Analysis and Visualization](https://github.com/PiyushSinghKumar/IBiDAV)
 **Problem Statement:** Biomedical research articles contain vast unstructured text data. Efficient search, preprocessing, and topic modeling are needed to extract insights.
 **Solution:**
 - Built a **Streamlit-based tool** to preprocess and analyze biomedical text.
@@ -35,7 +35,7 @@
 
 ---
 
-#### [Real-Time Crypto Price Prediction](https://github.com/PiyushSinghKumar/PiyushSinghKumar/tree/main/Real_time_crypto_prediction)
+#### [Real-Time Crypto Price Prediction](https://github.com/PiyushSinghKumar/real-time-crypto-prediction)
 **Problem Statement:** Crypto prices are highly volatile; predicting real-time trends requires an efficient pipeline.
 **Solution:**
 - Developed a **real-time data ingestion pipeline**.
@@ -43,7 +43,7 @@
 
 ---
 
-#### [Exploratory Data Analysis (EDA)](https://github.com/PiyushSinghKumar/PiyushSinghKumar/tree/main/EDA)
+#### [Exploratory Data Analysis (EDA)](https://github.com/PiyushSinghKumar/exploratory-data-analysis)
 **Problem Statement:** Unstructured datasets often hide valuable patterns.
 **Solution:**
 - Conducted EDA on **customer churn, fitness data, ride-sharing, and wholesale data**.
@@ -51,7 +51,7 @@
 
 ---
 
-#### [Machine Learning Models](https://github.com/PiyushSinghKumar/PiyushSinghKumar/tree/main/Machine_Learning)
+#### [Machine Learning Models](https://github.com/PiyushSinghKumar/machine-learning-models)
 **Problem Statement:** Predictive models require optimization for accuracy and generalization.
 **Solution:**
 - Developed **Election Prediction Model, Sentiment Analysis, and Time Series Forecasting** models.
@@ -59,7 +59,7 @@
 
 ---
 
-#### [Predictive Modeling](https://github.com/PiyushSinghKumar/PiyushSinghKumar/tree/main/Predictive_Modelling)
+#### [Predictive Modeling](https://github.com/PiyushSinghKumar/predictive-modeling)
 **Problem Statement:** Regression techniques help businesses forecast trends and classify data.
 **Solution:**
 - Implemented **Linear Regression, Logistic Regression & LDA** models.
@@ -67,7 +67,7 @@
 
 ---
 
-#### [Statistical Analysis](https://github.com/PiyushSinghKumar/PiyushSinghKumar/tree/main/Statistics)
+#### [Statistical Analysis](https://github.com/PiyushSinghKumar/statistical-analysis)
 **Problem Statement:** Decision-making in data science relies on statistical testing.
 **Solution:**
 - Applied **hypothesis testing, correlation analysis, and ANOVA** for insights.
