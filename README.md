@@ -71,3 +71,38 @@
 **Problem Statement:** Decision-making in data science relies on statistical testing.
 **Solution:**
 - Applied **hypothesis testing, correlation analysis, and ANOVA** for insights.
+
+---
+
+### 📊 Tableau Dashboards
+
+#### [Covid-19 Automated Tracker](https://public.tableau.com/app/profile/piyush.kumar.singh6333/viz/AutomatedTrackerCovid19/Covid-19AutomatedTracker)
+**Problem Statement:**
+Tracking Covid-19 cases in real time was crucial for policymakers, researchers, and the general public. There was a need for an interactive tool to monitor global and regional trends efficiently.
+
+**Solution:**
+- Designed an **automated tracker** using Tableau to visualize real-time Covid-19 case data.
+- Integrated **time-series analysis** to show trends in confirmed cases, recoveries, and deaths.
+- Enabled **country-wise and region-wise filtering** for a more granular view of the pandemic’s impact.
+
+---
+
+#### [Covid Mobility Dashboard](https://public.tableau.com/app/profile/piyush.kumar.singh6333/viz/DashboardCovidMobility/Dashboard2)
+**Problem Statement:**
+During the pandemic, mobility restrictions significantly impacted economic activities and daily life. Analyzing mobility trends was essential to understand behavioral changes and policy effectiveness.
+
+**Solution:**
+- Built a **dashboard to track mobility trends** across various sectors (workplaces, residential, retail, transit).
+- Visualized **pre-pandemic vs. post-pandemic movement patterns**.
+- Integrated **geospatial analytics** to observe regional variations in mobility shifts.
+
+---
+
+#### [Car Insurance Claims Analysis](https://public.tableau.com/app/profile/piyush.kumar.singh6333/viz/DVTProjectCarInsuranceTableau-PiyushKumarSingh/Storyforhighestclaimbasedonpeople)
+**Problem Statement:**
+Insurance companies face challenges in identifying high-risk customer segments and predicting claims. A data-driven approach was needed to optimize risk assessment.
+
+**Solution:**
+- Developed a **comprehensive dashboard** to analyze car insurance claims and policyholder trends.
+- Identified **factors influencing high claim amounts**, such as age, location, and vehicle type.
+- Provided **interactive insights** for insurers to adjust policy pricing and risk management strategies.
