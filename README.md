@@ -43,6 +43,18 @@
 
 ---
 
+#### [Weather ETL Pipeline with Airflow](https://github.com/PiyushSinghKumar/weather-airflow-pipeline)
+**Problem Statement:**  Gathering and storing weather data for analysis requires a robust and automated pipeline. Manual data collection and storage are inefficient and not scalable.
+**Solution:**
+- Developed an **ETL pipeline using Apache Airflow** to automate the process of fetching, transforming, and loading weather data.
+- Implemented **data extraction from the Open-Meteo API**.
+- Performed **data transformation** to format the data for database storage.
+- Loaded the processed data into a **PostgreSQL database**.
+- Orchestrated the entire pipeline using **Airflow DAGs** for scheduled and reliable execution.
+
+
+---
+
 #### [Exploratory Data Analysis (EDA)](https://github.com/PiyushSinghKumar/exploratory-data-analysis)
 **Problem Statement:** Unstructured datasets often hide valuable patterns.
 **Solution:**
