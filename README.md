@@ -7,10 +7,6 @@
 - 🎯 **Focus Areas:** Scalable Data Pipelines, Machine Learning Pipelines, Cloud Infrastructure, Event-Driven Architectures
 - 🏋️ **Hobbies:** Morning Gym Sessions, Traveling on Weekends, Cooking 🍳
 
-- [Jump to My Interests](#🌟-my-interests)
-- [Jump to Skills](#🛠️-skills)
-- [Jump to my Projects](#💡-projects)
-
 ---
 
 ### 🌟 My Interests
